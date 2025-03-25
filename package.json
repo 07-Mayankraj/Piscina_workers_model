@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.17.1",
+    "fast-csv": "^5.0.2",
+    "papaparse": "^5.5.2",
+    "piscina": "^4.9.2"
+  }
+}
